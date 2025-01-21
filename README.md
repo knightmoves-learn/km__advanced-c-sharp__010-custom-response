@@ -2,7 +2,7 @@
 
 ## Lecture
 
-[![# Custom Responses](https://img.youtube.com/vi/1a5s6qqXh7Y/0.jpg)](https://www.youtube.com/watch?v=1a5s6qqXh7Y)
+[![# Custom Responses](https://img.youtube.com/vi/yQTp4Gg767Y/0.jpg)](https://www.youtube.com/watch?v=yQTp4Gg767Y)
 
 ## Instructions
 
