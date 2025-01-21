@@ -1,8 +1,8 @@
-# 009 4xx Response
+# 010 Custom Responses
 
 ## Lecture
 
-[![# 009 4xx Response](https://img.youtube.com/vi/1a5s6qqXh7Y/0.jpg)](https://www.youtube.com/watch?v=1a5s6qqXh7Y)
+[![# Custom Responses](https://img.youtube.com/vi/1a5s6qqXh7Y/0.jpg)](https://www.youtube.com/watch?v=1a5s6qqXh7Y)
 
 ## Instructions
 
